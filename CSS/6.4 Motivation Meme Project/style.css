@@ -1,28 +1,19 @@
-html {background-color: black;}
-
-#heading {
-    font-family: "Libre Baskerville", serif;
+body{background-color: black;}
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    font-family: Libre Baskerville, sans-serif;
     color: white;
     text-align: center;
-    font-size: 3rem;
-    text-transform: uppercase;
 
-
-    }   
-
-#paragraph {
-    color: white;
-    text-align: center;
-    font-family: "Libre Baskerville", serif;
+    
 }
-
-#image {
+img{
     border: 5px solid white;
     width: 100%;
 }
+h1{
+    font-size: 3rem;
+    text-transform: uppercase;}
 
-div {
-    margin-top: 100px;
-    width: 50%;
-    margin-left: 25%;
-}
